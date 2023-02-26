@@ -1,3 +1,4 @@
+![](https://github-readme-streak-stats.herokuapp.com/?user=Veneiro&theme=dark)
 ```
 - 👋 Hi, I’m @Veneiro
 - 👀 I’m interested in uploading my projects. Personal or University projects will be here
