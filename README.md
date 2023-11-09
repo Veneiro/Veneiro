@@ -13,7 +13,7 @@
 - Unity 🦾
 
 ## Stats
-<p>
+<p style="display: flex">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Veneiro&theme=dark"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Veneiro&show_icons=true&theme=dark" />
 </p>
