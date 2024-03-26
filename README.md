@@ -6,6 +6,11 @@
 ## Current knowledge
 
 - Java ☕
+- Node.js 🔘
+- Express.js 🏃🏻‍♂️
+- HTML 🌐
+- CSS 🖌️
+- Javascript 💭
 - Python 🐍
 - C# 🦈
 - C++ ➕
@@ -15,6 +20,7 @@
 ## Currently learning
 
 - Unity 🦾
+- React ⚛️
 
 ## Stats
 <p>
