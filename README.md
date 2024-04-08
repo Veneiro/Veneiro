@@ -35,5 +35,5 @@
 
 ## Recent Work
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veneiro&repo=ShadowCraft-Project&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arquisoft&repo=wiq_en3b&theme=dark" />
 </p>
